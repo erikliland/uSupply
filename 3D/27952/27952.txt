@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"RSX301L-30TE25";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"SUPPLIER";"Rohm";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7002652";"";
+"REVISION";"A";"";
+"DESIGN";"Schottky Diode 30V 3A 0.42V SOD-106";"";
+"TraceParts.InstanceId";"10-05102012-1265629PHBLSOYFD3XX28CFN3V5LKBL";"";
+"TraceParts.PartTitle";"Schottky Diode 30V 3A 0.42V SOD-106";"";
+"TraceParts.PartLanguage";"en";"";
+"TIMESTAMP";"04/02/2013 16:49";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartNumber";"10-05102012-126562";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/10-05102012-126562";"";

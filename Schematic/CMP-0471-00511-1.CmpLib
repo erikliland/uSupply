@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<TComponentSet id="0" CurrentRevColumnWidth="100" NameColumnWidth="300" NextRevColumnWidth="100">
+  <LifeCycleDefinitionGUID>36FD2F71-F33E-4628-994A-0C82C0197C5F</LifeCycleDefinitionGUID>
+  <RevisionNamingSchemeGUID>CE4B36C7-F2D7-49B0-AA3A-E3B6D3276818</RevisionNamingSchemeGUID>
+  <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+  <VaultName>Altium Content Vault</VaultName>
+  <RequiredParameters>
+    <TRequiredParameter id="1" ColumnWidth="100">
+      <HRID>Battery Chemistry</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="2" ColumnWidth="100">
+      <HRID>Charge Termination</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="3" ColumnWidth="100">
+      <HRID>Comment</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="4" ColumnWidth="100">
+      <HRID>ComponentLink1Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="5" ColumnWidth="100">
+      <HRID>ComponentLink1URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="6" ColumnWidth="100">
+      <HRID>ComponentLink2Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="7" ColumnWidth="100">
+      <HRID>ComponentLink2URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="8" ColumnWidth="100">
+      <HRID>ComponentLink3Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="9" ColumnWidth="100">
+      <HRID>ComponentLink3URL</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="10" ColumnWidth="100">
+      <HRID>Description</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="11" ColumnWidth="100">
+      <HRID>Float Voltage</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="12" ColumnWidth="100">
+      <HRID>Manufacturer</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="13" ColumnWidth="100">
+      <HRID>Mounting Technology</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="14" ColumnWidth="100">
+      <HRID>Number of Cells</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="15" ColumnWidth="100">
+      <HRID>PackageDescription</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="16" ColumnWidth="100">
+      <HRID>PackageReference</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="17" ColumnWidth="100">
+      <HRID>PackageVersion</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="18" ColumnWidth="100">
+      <HRID>PartNumber</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="19" ColumnWidth="100">
+      <HRID>RoHS</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="20" ColumnWidth="100">
+      <HRID>Type of Charger</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="21" ColumnWidth="100">
+      <HRID>Vin Max(V)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+    <TRequiredParameter id="22" ColumnWidth="100">
+      <HRID>Vin Min(V)</HRID>
+      <Visible>true</Visible>
+    </TRequiredParameter>
+  </RequiredParameters>
+  <RequiredModels>
+    <TRequiredModel id="23" ColumnWidth="100">
+      <HRID>PCBLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="24" ColumnWidth="100">
+      <HRID>PCBLIB 1</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="25" ColumnWidth="100">
+      <HRID>PCBLIB 2</HRID>
+      <Visible>true</Visible>
+      <ModelKind>PCBLIB</ModelKind>
+    </TRequiredModel>
+    <TRequiredModel id="26" ColumnWidth="100">
+      <HRID>SCHLIB</HRID>
+      <Visible>true</Visible>
+      <ModelKind>SCHLIB</ModelKind>
+    </TRequiredModel>
+  </RequiredModels>
+  <ModelLinks>
+    <TModelLink id="27">
+      <HRID>PCC-0155-00023-3</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>5A813095-D1F8-42B4-8B46-FACDF80AADB6</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>F6E02D34-1F12-49C6-952B-08BB7C0A97AE</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="28">
+      <HRID>PCC-0157-00021-2</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>0706D2B4-3AB1-44CA-A5CD-BB8645ABF31D</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>2B2BAAFA-5810-45CE-B01E-CB46C03F5697</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="29">
+      <HRID>PCC-0157-00022-2</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>29C3A8B2-6005-4EE7-BC06-6F41F4E63161</ItemGUID>
+      <ModelKind>PCBLIB</ModelKind>
+      <RevisionGUID>5E8C864F-E171-43FD-81B3-8325374214E3</RevisionGUID>
+    </TModelLink>
+    <TModelLink id="30">
+      <HRID>SYM-0124-00099-1</HRID>
+      <VaultGUID>B7D15EC3-160A-466F-A46C-7801FE6295A7</VaultGUID>
+      <ItemGUID>4FBB509D-79AE-427C-A809-FB984B1626B1</ItemGUID>
+      <ModelKind>SCHLIB</ModelKind>
+      <RevisionGUID>D1162CD4-0FBE-4FEC-9664-53B97D94AA22</RevisionGUID>
+    </TModelLink>
+  </ModelLinks>
+  <PartChoiceListLinks StateIndex="2">
+    <ComponentSet href="#0"/>
+    <ItemNamingScheme>PCL-{00000}</ItemNamingScheme>
+  </PartChoiceListLinks>
+  <TopGroup id="31" StateIndex="2" Collapsed="false">
+    <Parameters/>
+    <ModelChoices/>
+    <ComponentSet href="#0"/>
+    <ItemNamingScheme>CMP-0937-{00000}</ItemNamingScheme>
+    <Groups>
+      <TGroup id="32" StateIndex="2" Collapsed="false">
+        <HRID>Unified Components</HRID>
+        <ParentGroup href="#31"/>
+        <Parameters/>
+        <ModelChoices/>
+        <ComponentSet href="#0"/>
+        <Groups>
+          <TGroup id="33" StateIndex="2" Collapsed="false">
+            <HRID>Components</HRID>
+            <ParentGroup href="#32"/>
+            <Parameters/>
+            <ModelChoices/>
+            <ComponentSet href="#0"/>
+            <Groups>
+              <TGroup id="34" StateIndex="2" Collapsed="false">
+                <HRID>Linear Technology</HRID>
+                <ParentGroup href="#33"/>
+                <Parameters/>
+                <ModelChoices/>
+                <ComponentSet href="#0"/>
+                <Groups>
+                  <TGroup id="35" StateIndex="2" Collapsed="false">
+                    <HRID>Power Management</HRID>
+                    <ParentGroup href="#34"/>
+                    <Parameters/>
+                    <ModelChoices/>
+                    <ComponentSet href="#0"/>
+                    <Groups>
+                      <TGroup id="36" StateIndex="2" Collapsed="false">
+                        <HRID>Battery Management</HRID>
+                        <GUID>24E288DF-BB62-4D72-8258-7AE7DEFE0106</GUID>
+                        <ParentGroup href="#35"/>
+                        <Parameters/>
+                        <ModelChoices/>
+                        <ComponentSet href="#0"/>
+                        <Groups/>
+                        <ComponentDefinitions>
+                          <TComponentDefinition StateIndex="0">
+                            <HRID>CMP-0471-00511</HRID>
+                            <GUID>0F113191-D510-437A-8809-2362AA4A83FF</GUID>
+                            <ParentGroup href="#36"/>
+                            <Parameters>
+                              <TParameter>
+                                <RequiredParameter href="#3"/>
+                                <Value>LTC4002ES8-4.2#PBF</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#10"/>
+                                <Value>Standalone Li-Ion Switch Mode Battery Charger, 4.7 to 22 V Vin, 8-pin SOIC (S8-8), -40 to 85 degC, Pb-Free</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#8"/>
+                                <Value>Package Specification</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#7"/>
+                                <Value>http://cds.linear.com/docs/en/datasheet/4002f.pdf</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#13"/>
+                                <Value>Surface Mount</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#1"/>
+                                <Value>Li-Ion, Li-Polymer</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#12"/>
+                                <Value>Linear Technology</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#14"/>
+                                <Value>1</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#11"/>
+                                <Value>4.2 V</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#9"/>
+                                <Value>http://cds.linear.com/docs/en/packaging/05081610_G_SO8.pdf</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#20"/>
+                                <Value>Switching</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#17"/>
+                                <Value>Rev. G, 03/2012</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#2"/>
+                                <Value>On-board timer</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#19"/>
+                                <Value>TRUE</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#16"/>
+                                <Value>S8-8</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#22"/>
+                                <Value>4.7</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#15"/>
+                                <Value>8-Pin Plastic Small Outline (Narrow .150 Inch), Body 4.9 x 3.9 mm, Pitch 1.27 mm</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#5"/>
+                                <Value>http://www.linear.com/</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#6"/>
+                                <Value>Datasheet</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#18"/>
+                                <Value>LTC4002ES8-4.2#PBF</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#4"/>
+                                <Value>Manufacturer URL</Value>
+                              </TParameter>
+                              <TParameter>
+                                <RequiredParameter href="#21"/>
+                                <Value>22</Value>
+                              </TParameter>
+                            </Parameters>
+                            <ModelChoices>
+                              <TModelChoice>
+                                <RequiredModel href="#23"/>
+                                <ModelLink href="#27"/>
+                              </TModelChoice>
+                              <TModelChoice>
+                                <RequiredModel href="#24"/>
+                                <ModelLink href="#28"/>
+                              </TModelChoice>
+                              <TModelChoice>
+                                <RequiredModel href="#25"/>
+                                <ModelLink href="#29"/>
+                              </TModelChoice>
+                              <TModelChoice>
+                                <RequiredModel href="#26"/>
+                                <ModelLink href="#30"/>
+                              </TModelChoice>
+                            </ModelChoices>
+                            <ItemHRID>CMP-0471-00511</ItemHRID>
+                            <RevisionGUID>CE55A76C-FA93-445F-B35D-BA17F7CEE19C</RevisionGUID>
+                            <RevisionId>1</RevisionId>
+                          </TComponentDefinition>
+                        </ComponentDefinitions>
+                        <Path>Unified Components\Components\Linear Technology\Power Management\Battery Management</Path>
+                        <IsDefaultGroup>true</IsDefaultGroup>
+                      </TGroup>
+                    </Groups>
+                    <ComponentDefinitions/>
+                    <Path>Unified Components\Components\Linear Technology\Power Management</Path>
+                    <IsDefaultGroup>false</IsDefaultGroup>
+                  </TGroup>
+                </Groups>
+                <ComponentDefinitions/>
+                <Path>Unified Components\Components\Linear Technology</Path>
+                <IsDefaultGroup>false</IsDefaultGroup>
+              </TGroup>
+            </Groups>
+            <ComponentDefinitions/>
+            <Path>Unified Components\Components</Path>
+            <IsDefaultGroup>false</IsDefaultGroup>
+          </TGroup>
+        </Groups>
+        <ComponentDefinitions/>
+        <Path>Unified Components</Path>
+        <IsDefaultGroup>false</IsDefaultGroup>
+      </TGroup>
+    </Groups>
+    <ComponentDefinitions/>
+    <IsDefaultGroup>false</IsDefaultGroup>
+  </TopGroup>
+  <ShowReleaseState>false</ShowReleaseState>
+</TComponentSet>

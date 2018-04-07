@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22112012-077604";"";
+"REFERENCE";"875830010BHLF";"";
+"TraceParts.PartTitle";"USB Type A, Receptacle, Standard, SMT, 30u GXT Contact, 4 Pins, Shield with Tin Plating, 1.57 mm PCB, White HSG, Tube packing";"";
+"TraceParts.InstanceId";"10-22112012-0776047KVT7G79P8CYX2749SP1CUYCG";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"SUPPLIER";"FCI";"";
+"DESIGN";"USB Type A, Receptacle, Standard, SMT, 30u GXT Contact, 4 Pins, Shield with Tin Plating, 1.57 mm PCB, White HSG, Tube packing";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"FCI:/ROOT/C31/C31.T01/C31.T01.T02/10-22112012-077604";"";

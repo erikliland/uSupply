@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"EEHZA1H100R";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"Panasonic";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"7581266P";"";
+"REVISION";"A";"";
+"DESIGN";"Hybrid Cap SMT ZA 50V 10uF low ESR";"";
+"TraceParts.InstanceId";"10-21012014-120282U5ANK9XP8237F3DND2QCGR5B";"";
+"TraceParts.PartTitle";"Hybrid Cap SMT ZA 50V 10uF low ESR";"";
+"TraceParts.PartLanguage";"en";"";
+"TIMESTAMP";"20/01/2014 13:49";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartNumber";"10-21012014-120282";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/ROOT/10-21012014-120282";"";

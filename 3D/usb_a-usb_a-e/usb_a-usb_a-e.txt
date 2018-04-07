@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-02092010-081515";"";
+"REFERENCE";"A-USB A-E";"";
+"TraceParts.PartTitle";"USB, style A, vertical, DIP";"";
+"TraceParts.InstanceId";"10-02092010-081515792BIUGE3V0338MBD598YPPBM";"";
+"TraceParts.PartStatus";"Published";"";
+"SUPPLIER";"ASSMANN WSW components";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"DESIGN";"USB, style A, vertical, DIP";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ASSMANN:/ROOT/C31/C31.T01/C31.T01.T02/10-02092010-081515";"";

@@ -1,0 +1,55 @@
+Field=Description~String~Description~143|Field=Designator~String~Designator~143|Field=LibRef~String~LibRef~143|Field=Quantity~Integer~Quantity~143|Field=Supplier 1~String~Supplier 1~87|Field=Supplier Part Number 1~String~Supplier Part Number 1~197|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Battery PSU.PrjPCB|ReportField=ProjectFullPath~Z:\OneDrive\02 NTNU\07 OmegaVerksted\Battery power supply\Schematic\Battery PSU.PrjPCB|ReportField=Title~Bill of Materials For Project [Battery PSU.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~168|ReportField=ReportTime~13:57:48|ReportField=ReportDate~04.06.2015|ReportField=ReportDateTime~04.06.2015 13:57:48|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~04.06.2015|ReportField=CurrentTime~12:54:38|ReportField=Date~|ReportField=DocumentFullPathAndName~Z:\OneDrive\02 NTNU\07 OmegaVerksted\Battery power supply\Schematic\BatteruPSU_SM-reg.SchDoc|ReportField=DocumentName~BatteruPSU_SM-reg.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~04.06.2015|ReportField=Organization~|ReportField=ProjectName~Battery PSU.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Battery PSU.PrjPCB|ReportField=DataSourceFullPath~Z:\OneDrive\02 NTNU\07 OmegaVerksted\Battery power supply\Schematic\Battery PSU.PrjPCB|ReportField=PCBDataSourceFileName~BatteryPSU-pcb.PcbDoc|ReportField=PCBDataSourceFullPath~Z:\OneDrive\02 NTNU\07 OmegaVerksted\Battery power supply\Schematic\BatteryPSU-pcb.PcbDoc
+Resistor|R52|Res|1||
+Resistor|R9|Res|1||
+Resistor|R11, R28, R31, R49, R50, R51, R54, R57|Res|8||
+Resistor|R53|Res|1||
+Resistor|R39, R40, R41, R42, R43, R44, R45, R46, R47, R48, R66|Res|11||
+Resistor|R8, R12, R21, R22, R25, R56, R58, R60, R70|Res|9||
+Resistor|R23|Res|1||
+Resistor|R2, R3, R36, R61, R65, R67|Res|6||
+Resistor|R18, R19, R27, R29, R30, R32, R34, R37, R38, R55, R59, R62, R63, R68, R69, R73|Res|16||
+Resistor|R1, R16, R17, R72|Res|4||
+Resistor|R13, R15, R33|Res|3||
+Resistor|R20, R35|Res|2||
+Resistor|R5, R6|Res|2||
+Resistor|R10, R14|Res|2||
+Resistor|R71, R74, R75|Res|3||
+Resistor|R64|Res|1||
+Resistor|R4, R7|Res|2||
+Resistor|R26|Res|1||
+Resistor|R24|Res|1||
+Ferrite Bead|F1|Ferite|1|Digi-Key|240-2549-1-ND
+Resetable fuse, SMD|F2|Fuse|1|Digi-Key|507-1778-1-ND
+Voltage reference|U5|ISL21010|1|Digi-Key|ISL21010CFH320Z-TKCT-ND
+Capacitor|C3, C4, C8, C33, C39, C42, C43, C46|Cap|8|Digi-Key|399-1167-1-ND
+Polarized Capacitor|C36, C47|Cap Pol|2|Digi-Key|P15442CT-ND
+Capacitor|C6, C7|Cap|2|Digi-Key|1276-2594-1-ND
+Polarized Capacitor|C23|Cap Pol|1|Digi-Key|P15437CT-ND
+Capacitor|C26, C27, C28, C29, C30, C31, C32, C34, C37, C41, C44, C45|Cap|12|Digi-Key|445-14428-1-ND, 445-14428-1-ND, 490-10511-1-ND, 445-14428-1-ND, 490-10511-1-ND, 445-14428-1-ND, 490-10511-1-ND, 490-10511-1-ND, 445-14428-1-ND, 445-14428-1-ND, 445-14428-1-ND, 445-14428-1-ND
+Polarized Capacitor|C11, C48|Cap Pol|2|Digi-Key|P15438CT-ND
+Capacitor|C1, C2, C5, C9, C10, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C24, C25, C35, C38, C40, C49|Cap|22|Digi-Key|1276-2970-1-ND
+DigPot|U7|AD5245|1|Digi-Key|AD5245BRJZ50-RL7CT-ND
+8/16-bit AVR XMEGA A4 Microcontroller, 1.6-3.6V, 32MHz, 128KB + 8KB Flash, 2KB EEPROM, 8KB SRAM, 44-pin TQFP, Industrial Grade (-40°C to 85°C), Pb-Free|U1|CMP-0094-00040-4|1|Digi-Key|ATXMEGA128A4U-AURCT-ND
+Quad Low-Power Operational Amplifier|U8|BA2902FV|1|Digi-Key|BA2902FV-E2CT-ND
+Multicell Battery|BT1|Battery|1|Digi-Key|BK-18650-PC8-ND
+1 A, Single Input, Single Cell Li-Ion Battery Charger with 10 K ohm NTC, 4.5 V, -40 to 150 degC, 10-pin MSOP-PowerPAD (DGQ), Green (RoHS & no Sb/Br)|U12|CMP-0321-00917-1|1|Digi-Key|296-38875-1-ND
+Schottky Diode|D1, D2, D3, D4|D Schottky|4|Digi-Key|SK33A-TPCT-ND
+Horisontal LED|LED12|LED HOR|1|Digi-Key|754-1842-1-ND
+Header, 3-Pin, Dual row|P1|Header 3X2|1|Digi-Key|609-3487-1-ND
+Inductor|L1, L2|Inductor|2|Digi-Key|SRR1005-100MCT-ND, SRR1005-7R0MCT-ND
+2x16 CHAR DISP, RGB|LCD1|LCD DISP|1|Digi-Key|S9186-ND
+Typical RED, GREEN, YELLOW, AMBER|LED1, LED2, LED3, LED4, LED5, LED6, LED7, LED8, LED9, LED10|LED|10|Digi-Key|475-1410-1-ND
+LT3080 LDO regulator|U2, U3, U4|LT3080_3P|3|Digi-Key|LT3080EST#TRPBFCT-ND
+LT3080 LDO regulator|U9, U10|LT3080_6P|2|Digi-Key|LT3080EQ#PBF-ND
+Current source|U11|LT3092|1|Digi-Key|LT3092EST#PBF-ND
+DC/DC conv|U6|LT8471|1|Digi-Key|LT8471IFE#PBF-ND
+Horisontal micro usb b|USB2|USB_micro_B|1|Digi-Key|609-4618-1-ND
+NPN General Purpose Amplifier|Q1|NPN Transistor|1|Digi-Key|MMBT3904TPMSCT-ND
+Horisontal LED|LED11|LED HOR|1|Digi-Key|754-1842-1-ND
+Thermistor|TH1|Res Thermal|1|Digi-Key|952-2262-ND
+RotaryEncoder|ENC1|RotEnc|1|Digi-Key|PEC09-2220F-S0012-ND
+Switch|SW1|SW-PB|1|Digi-Key|P16767CT-ND
+USB A Vertikal|USB1|USB_A_VERT|1|Digi-Key|AE10400-ND
+Crystal Oscillator|Y1|XTAL|1|Digi-Key|XC2015CT-ND
+2.54mm skrew terminal|B1|Banana socket pcb|1|Farnell|1854508
+2.54mm skrew terminal|B2|Banana socket pcb|1|Farnell|1854507
